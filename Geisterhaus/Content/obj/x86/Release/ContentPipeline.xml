@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\myFont.xnb</Output>
+      <Time>2010-01-27T21:29:02.875029+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\beenden.png</Source>
+      <Name>Textures\beenden</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\beenden.xnb</Output>
+      <Time>2010-01-27T21:28:47.8210025+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\start.png</Source>
+      <Name>Textures\start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\start.xnb</Output>
+      <Time>2010-01-27T21:28:47.8210025+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\highscore.png</Source>
+      <Name>Textures\highscore</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\highscore.xnb</Output>
+      <Time>2010-01-27T21:28:47.8990027+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\gameover.png</Source>
+      <Name>Textures\gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\gameover.xnb</Output>
+      <Time>2010-01-27T21:28:47.8834026+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\blank.png</Source>
+      <Name>Textures\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\blank.xnb</Output>
+      <Time>2010-01-27T21:28:47.9770028+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\background.png</Source>
+      <Name>Textures\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\background.xnb</Output>
+      <Time>2010-02-25T15:32:45.1001065+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\huette0.png</Source>
+      <Name>Textures\huette0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\huette0.xnb</Output>
+      <Time>2010-01-27T21:28:47.9146027+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Dummy.png</Source>
+      <Name>Textures\Dummy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\Dummy.xnb</Output>
+      <Time>2010-03-01T14:07:50.919021+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\onePixel.bmp</Source>
+      <Name>Textures\onePixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\onePixel.xnb</Output>
+      <Time>2010-01-27T21:28:47.9146027+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Geist.png</Source>
+      <Name>Textures\Geist</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\Geist.xnb</Output>
+      <Time>2010-02-25T14:14:45.7388786+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\geist_viereck.png</Source>
+      <Name>Textures\geist_viereck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\geist_viereck.xnb</Output>
+      <Time>2010-01-27T21:28:47.9458027+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\geist_kreis.png</Source>
+      <Name>Textures\geist_kreis</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\geist_kreis.xnb</Output>
+      <Time>2010-01-27T21:28:47.8834026+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\geist_dreieck.png</Source>
+      <Name>Textures\geist_dreieck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\geist_dreieck.xnb</Output>
+      <Time>2010-01-27T21:28:47.8366025+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\huette1.png</Source>
+      <Name>Textures\huette1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\huette1.xnb</Output>
+      <Time>2010-01-27T21:28:47.9302027+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\huette2.png</Source>
+      <Name>Textures\huette2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\huette2.xnb</Output>
+      <Time>2010-01-27T21:28:47.9302027+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\huette3.png</Source>
+      <Name>Textures\huette3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\huette3.xnb</Output>
+      <Time>2010-01-27T21:28:47.9458027+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\huette4.png</Source>
+      <Name>Textures\huette4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\huette4.xnb</Output>
+      <Time>2010-01-27T21:28:47.9458027+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\huette5.png</Source>
+      <Name>Textures\huette5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\huette5.xnb</Output>
+      <Time>2010-01-27T21:28:47.9614028+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\huette6.png</Source>
+      <Name>Textures\huette6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\huette6.xnb</Output>
+      <Time>2010-01-27T21:28:47.9614028+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\huette7.png</Source>
+      <Name>Textures\huette7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\huette7.xnb</Output>
+      <Time>2010-01-27T21:28:47.9614028+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\huette8.png</Source>
+      <Name>Textures\huette8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\huette8.xnb</Output>
+      <Time>2010-01-27T21:28:47.9770028+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Geist_Spirale.png</Source>
+      <Name>Textures\Geist_Spirale</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\Geist_Spirale.xnb</Output>
+      <Time>2010-01-27T21:28:47.9926028+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Coin.png</Source>
+      <Name>Textures\Coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\Coin.xnb</Output>
+      <Time>2010-01-27T21:28:47.9926028+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\gewonnen.png</Source>
+      <Name>Textures\gewonnen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\gewonnen.xnb</Output>
+      <Time>2010-01-27T21:28:47.9302027+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Coin_gray.png</Source>
+      <Name>Textures\Coin_gray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\Coin_gray.xnb</Output>
+      <Time>2010-01-27T21:28:47.8834026+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Wood.mp3</Source>
+      <Name>Sounds\Wood</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Sounds\Wood.xnb</Output>
+      <Extra>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Sounds\Wood.wma</Extra>
+      <Time>2010-01-27T21:29:02.8282289+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\WOODCUT.mp3</Source>
+      <Name>Sounds\WOODCUT</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Quality">Medium</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Sounds\WOODCUT.xnb</Output>
+      <Time>2010-01-27T21:29:02.7970288+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\wind.mp3</Source>
+      <Name>Sounds\wind</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Sounds\wind.xnb</Output>
+      <Extra>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Sounds\wind.wma</Extra>
+      <Time>2010-02-25T14:32:14.235692+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\lightning_strike_01.wav</Source>
+      <Name>Sounds\lightning_strike_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Parameters>
+        <Data Key="Quality">Medium</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Sounds\lightning_strike_01.xnb</Output>
+      <Time>2010-01-27T21:29:02.7970288+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\ghost_die.mp3</Source>
+      <Name>Sounds\ghost_die</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Sounds\ghost_die.xnb</Output>
+      <Time>2010-02-25T14:29:19.020981+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\laugh.mp3</Source>
+      <Name>Sounds\laugh</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Sounds\laugh.xnb</Output>
+      <Time>2010-02-25T14:41:27.4450732+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\weiter.png</Source>
+      <Name>Textures\weiter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\weiter.xnb</Output>
+      <Time>2010-02-25T15:19:43.6226476+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Geist_red.png</Source>
+      <Name>Textures\Geist_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\Textures\Geist_red.xnb</Output>
+      <Time>2010-02-25T12:56:05.8659884+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\Studium\WS0910\Embodied Games\Geisterhaus\Geisterhaus\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T01:16:14+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T01:16:06+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T01:16:16+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T01:16:26+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T01:16:12+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T01:16:06+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-11-09T15:01:38.8373802+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

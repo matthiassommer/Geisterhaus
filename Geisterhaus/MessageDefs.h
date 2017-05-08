@@ -1,0 +1,31 @@
+﻿#pragma once
+// Message Specification
+// 1. Byte: Random Key Rolling
+// 2. Byte: Message
+// 3. Byte: Data...
+
+
+typedef enum : unsigned char
+{
+	MSG_INVALID_OR_FAILED_TRANSMIT,
+    MSG_ACK,
+	MSG_CAPTURE_LOW,
+	MSG_CAPTURE_HIGH,
+    MSG_CAPTURE_BIT,
+    MSG_CAMERA_SHUTDOWN,
+	MSG_GET_NEGOTIATED_ID,
+	MSG_DATA_BYTE,
+	MSG_KATJA,
+	MSG_GESTURE,
+	MSG_SIGNAL_C,
+	MSG_SIGNAL_D,
+	MSG_KREIS,
+	MSG_VIERECK,
+	MSG_SPIRALE,
+	MSG_DREIECK,
+	MSG_GAMEOVER,
+	MSG_GAMESTART,
+	MSG_GESTRIGHT,
+	MSG_GESTWRONG,
+	MSG_SIGNAL_NONE,
+} BlueToothMsg;

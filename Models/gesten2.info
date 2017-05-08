@@ -1,0 +1,11 @@
+Dollar $1
+
+stream #0
+  dim: 2 -> 2
+  stats: 0
+
+classes
+  kreis
+  viereck
+  dreieck
+  spirale
